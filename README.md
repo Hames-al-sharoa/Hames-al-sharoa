@@ -5,7 +5,7 @@
   <h2>About me<h2>
 
  My name is Hames a grade ten female student, 16 years old. learning new languages and coding 😄🌱
- <img src="""
+ <img src="images/GmUB.gif"
 
 
 
