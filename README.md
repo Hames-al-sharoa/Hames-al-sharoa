@@ -5,8 +5,7 @@
   <h2>About me<h2>
 
  My name is Hames a grade ten female student, 16 years old. learning new languages and coding 😄🌱
- <img src="![cartoon-lofi-young-manga-style-girl-while-listening-to-music-in-the-rain-ai-generative-photo](https://github.com/Hames-al-sharoa/Hames-al-sharoa/assets/159185115/cba6124b-170e-488f-a9c4-b766b9841a5f)
-"
+ <img src="""
 
 
 
