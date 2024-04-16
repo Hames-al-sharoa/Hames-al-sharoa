@@ -1,6 +1,10 @@
 ### Hi there/مرحبا 👋
 
-<h1>Hello there, I am Hames a grade ten female student, 16 years old. learning new languages and coding 😄🌱<h1></h1>
+<h1>Hi.I'm Hames <h1>
+
+  <h2>About me<h2>
+
+ My name is Hames a grade ten female student, 16 years old. learning new languages and coding 😄🌱
 
 <h2>🕸️ Programming Languages </h2>
 
