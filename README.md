@@ -9,10 +9,11 @@ My name is Hames. I'm a grade ten female student, 16 years old. learning new lan
 ![GmUB](https://github.com/Hames-al-sharoa/Hames-al-sharoa/assets/159185115/ae9f4130-9886-4efe-93b5-2dd5c6fa3965)
 
 
-<h2>projects Im working on<h2></h2>
-
-
+<h2>Tools<h2></h2>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  
 <h2>🕸️ Programming Languages </h2>
+
 
   <a href="https://github.com/search?q=userhames.al-sharoa+language%3Abash"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
   <a href="https://github.com/search?q=userhames.al-sharoa+language%3Abash"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
