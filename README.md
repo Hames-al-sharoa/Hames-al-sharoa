@@ -6,12 +6,11 @@
 
 My name is Hames. I'm a grade ten female student, 16 years old. learning new languages and coding 😄🌱
 <br>
-![GmUB](https://github.com/Hames-al-sharoa/Hames-al-sharoa/assets/159185115/ae9f4130-9886-4efe-93b5-2dd5c6fa3965)
+
 
 
 
 <h2>Tools<h2></h2>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
